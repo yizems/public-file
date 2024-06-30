@@ -28,7 +28,11 @@ We take special care to protect the privacy of children. The Software is not int
 
 We reserve the right to amend this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post the updated Privacy Policy within the software so that you are always aware of how we handle your information.
 
-## 7 Contact us
+## 7 SDK used
+
+[Google AdMob](https://policies.google.com/privacy), click to see the detail for Google Admob.
+
+## 8 Contact us
 
 If you have any questions about this Privacy Policy or require further information, please contact us at:
 
